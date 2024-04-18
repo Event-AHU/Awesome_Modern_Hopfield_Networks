@@ -28,6 +28,11 @@ Paper list for Modern Hopfield Networks
 
 
 ## Year 2023 
+
+* **Neuron-Astrocyte Associative Memory**, arXiv:2311.08135, 
+  Leo Kozachkov, Jean-Jacques Slotine, Dmitry Krotov
+  [[Paper](https://arxiv.org/abs/2311.08135)] 
+
 * Seidl, Philipp, et al. "**Improving few-and zero-shot reaction template prediction using modern hopfield networks.**" Journal of chemical information and modeling 62.9 (2022): 2111-2120.
   [[Paper](https://pubs.acs.org/doi/full/10.1021/acs.jcim.1c01065)]
   [[Code](https://github.com/ml-jku/mhn-react)]
