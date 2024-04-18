@@ -14,6 +14,17 @@ Paper list for Modern Hopfield Networks
 
 ## Year 2024 
 
+
+* **Nonparametric Modern Hopfield Models**,
+  Jerry Yao-Chieh Hu, Bo-Yu Chen, Dennis Wu, Feng Ruan, Han Liu
+  [[Paper](https://arxiv.org/abs/2404.03900)]
+  [[Code](https://github.com/MAGICS-LAB/NonparametricHopfield)] 
+
+* **BiSHop: Bi-Directional Cellular Learning for Tabular Data with Generalized Sparse Modern Hopfield Model**,
+  Chenwei Xu, Yu-Chao Huang, Jerry Yao-Chieh Hu, Weijian Li, Ammar Gilani, Hsi-Sheng Goan, Han Liu
+  [[Paper](https://arxiv.org/abs/2404.03830)]
+  [[Code](https://github.com/MAGICS-LAB/BiSHop)] 
+
 * "**Reconstructing creative thoughts: Hopfield neural networks.**" Checiu, Denisa, Mathias Bode, and Radwa Khalil.  Neurocomputing (2024): 127324.
   [[Paper](https://www.sciencedirect.com/science/article/pii/S092523122400095X)]
 
