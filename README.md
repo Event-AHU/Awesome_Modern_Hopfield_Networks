@@ -27,7 +27,22 @@ Paper list for Modern Hopfield Networks
   [[Paper](https://arxiv.org/abs/2401.04191)]
 
 
+
+
 ## Year 2023 
+
+
+* **Outlier-Efficient Hopfield Layers for Large Transformer-Based Models**,
+  Jerry Yao-Chieh Hu, Pei-Hsuan Chang, Robin Luo, Hong-Yu Chen, Weijian Li, Wei-Po Wang, Han Liu
+  [[Paper](https://arxiv.org/abs/2404.03828)]
+
+* **Uniform Memory Retrieval with Larger Capacity for Modern Hopfield Models**,
+  Dennis Wu, Jerry Yao-Chieh Hu, Teng-Yun Hsiao, Han Liu
+  [[Paper](https://arxiv.org/abs/2404.03827)] 
+
+* **STanHop: Sparse Tandem Hopfield Model for Memory-Enhanced Time Series Prediction**,
+  Dennis Wu, Jerry Yao-Chieh Hu, Weijian Li, Bo-Yu Chen, Han Liu
+  [[Paper](https://arxiv.org/abs/2312.17346)] 
 
 * **Neuron-Astrocyte Associative Memory**, arXiv:2311.08135, 
   Leo Kozachkov, Jean-Jacques Slotine, Dmitry Krotov
