@@ -15,6 +15,11 @@ Paper list for Modern Hopfield Networks
 ## Year 2024 
 
 
+* [arXiv:2405.08766] **Energy-based Hopfield Boosting for Out-of-Distribution Detection**,
+  Claus Hofmann, Simon Schmid, Bernhard Lehner, Daniel Klotz, Sepp Hochreiter
+  [[Paper](https://arxiv.org/abs/2405.08766)]
+  [[Code](https://github.com/ml-jku/hopfield-boosting)] 
+
 * **Long-term Frame-Event Visual Tracking: Benchmark Dataset and Baseline**,
   Xiao Wang, Ju Huang, Shiao Wang, Chuanming Tang, Bo Jiang, Yonghong Tian, Jin Tang, Bin Luo,
   arXiv:2403.05839
