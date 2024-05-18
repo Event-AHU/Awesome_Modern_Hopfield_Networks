@@ -15,6 +15,10 @@ Paper list for Modern Hopfield Networks
 ## Year 2024 
 
 
+* **Beyond Scaling Laws: Understanding Transformer Performance with Associative Memory**,
+  Xueyan Niu, Bo Bai, Lei Deng, Wei Han
+  [[Paper](https://arxiv.org/abs//2405.08707)] 
+
 * [arXiv:2405.08766] **Energy-based Hopfield Boosting for Out-of-Distribution Detection**,
   Claus Hofmann, Simon Schmid, Bernhard Lehner, Daniel Klotz, Sepp Hochreiter
   [[Paper](https://arxiv.org/abs/2405.08766)]
