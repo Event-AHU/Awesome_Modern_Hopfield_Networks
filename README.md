@@ -121,6 +121,9 @@ Paper list for Modern Hopfield Networks
 * [ICLR 2022] Zhang, Jinsong, et al. "**Out-of-Distribution Detection based on In-Distribution Data Patterns Memorization with Modern Hopfield Energy.**" The Eleventh International Conference on Learning Representations. 2022. [[Paper](https://openreview.net/forum?id=KkazG4lgKL)] [[Code](https://github.com/zjs975584714/SHE)] 
 
 
+
+
+
 ## Year 2022 
 
 * Seidl, Philipp, et al. "**Improving few-and zero-shot reaction template prediction using modern hopfield networks**." Journal of chemical information and modeling 62.9 (2022): 2111-2120.
