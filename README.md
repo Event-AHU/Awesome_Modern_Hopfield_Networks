@@ -15,6 +15,9 @@ Paper list for Modern Hopfield Networks
 ## Year 2024 
 
 
+*  Alonso, Nicholas, and Jeffrey L. Krichmar. "**A sparse quantized Hopfield network for online-continual memory.**" Nature Communications 15.1 (2024): 3722.
+  [[Paper](https://www.nature.com/articles/s41467-024-46976-4)] 
+
 * **Beyond Scaling Laws: Understanding Transformer Performance with Associative Memory**,
   Xueyan Niu, Bo Bai, Lei Deng, Wei Han
   [[Paper](https://arxiv.org/abs//2405.08707)] 
