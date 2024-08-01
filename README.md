@@ -129,6 +129,11 @@ Paper list for Modern Hopfield Networks
 
 ## Year 2022 
 
+
+* [NIPS 2022] Fürst, Andreas, et al. "**Cloob: Modern hopfield networks with infoloob outperform clip.**" Advances in neural information processing systems 35 (2022): 20450-20468.
+  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/8078e76f913e31b8467e85b4c0f0d22b-Paper-Conference.pdf)]
+  [[Code](https://github.com/ml-jku/cloob)] 
+
 * Seidl, Philipp, et al. "**Improving few-and zero-shot reaction template prediction using modern hopfield networks**." Journal of chemical information and modeling 62.9 (2022): 2111-2120.
   [[Paper](https://pubs.acs.org/doi/epdf/10.1021/acs.jcim.1c01065)]
   [[Code](https://github.com/ml-jku/mhn-react)]
