@@ -129,6 +129,8 @@ Paper list for Modern Hopfield Networks
 
 ## Year 2022 
 
+* Sanchez-Fernandez, Ana, et al. "**Contrastive learning of image-and structure-based representations in drug discovery.**" ICLR2022 Machine Learning for Drug Discovery. 2022.
+  [[Paper](https://openreview.net/forum?id=OdXKRtg1OG)] 
 
 * [NIPS 2022] Fürst, Andreas, et al. "**Cloob: Modern hopfield networks with infoloob outperform clip.**" Advances in neural information processing systems 35 (2022): 20450-20468.
   [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/8078e76f913e31b8467e85b4c0f0d22b-Paper-Conference.pdf)]
