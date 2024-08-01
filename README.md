@@ -15,6 +15,9 @@ Paper list for Modern Hopfield Networks
 ## Year 2024 
 
 
+* McAlister, Hayden, Anthony Robins, and Lech Szymanski. "**Prototype Analysis in Hopfield Networks with Hebbian Learning.**" arXiv preprint arXiv:2407.03342 (2024).
+  [[Paper](https://arxiv.org/abs/2407.03342)] 
+
 * Nicolini, C., Gopalan, M., Staiano, J., & Lepri, B. (2024). **Hopfield Networks for Asset Allocation**. arXiv preprint arXiv:2407.17645.
   [[Paper](https://arxiv.org/abs/2407.17645)] 
 
