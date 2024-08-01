@@ -15,6 +15,12 @@ Paper list for Modern Hopfield Networks
 ## Year 2024 
 
 
+* Chaudhry, H., Zavatone-Veth, J., Krotov, D., & Pehlevan, C. (2024). **Long sequence hopfield memory.** Advances in Neural Information Processing Systems, 36.
+  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/aa32ebcdd2ce1bed4ef7f456fc8fa5c1-Abstract-Conference.html)] 
+
+* Santos, S., Niculae, V., McNamee, D., & Martins, A. F. (2024). **Sparse and Structured Hopfield Networks**. arXiv preprint arXiv:2402.13725.
+  [[Paper](https://arxiv.org/abs/2402.13725)] 
+
 * McAlister, Hayden, Anthony Robins, and Lech Szymanski. "**Prototype Analysis in Hopfield Networks with Hebbian Learning.**" arXiv preprint arXiv:2407.03342 (2024).
   [[Paper](https://arxiv.org/abs/2407.03342)] 
 
