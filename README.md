@@ -15,6 +15,9 @@ Paper list for Modern Hopfield Networks
 ## Year 2024 
 
 
+* McAlister, Hayden, Anthony Robins, and Lech Szymanski. "**Improved Robustness and Hyperparameter Selection in Modern Hopfield Networks.**" arXiv preprint arXiv:2407.08742 (2024).
+  [[Paper](https://arxiv.org/pdf/2407.08742)] 
+
 *  Alonso, Nicholas, and Jeffrey L. Krichmar. "**A sparse quantized Hopfield network for online-continual memory.**" Nature Communications 15.1 (2024): 3722.
   [[Paper](https://www.nature.com/articles/s41467-024-46976-4)] 
 
