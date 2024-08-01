@@ -15,6 +15,9 @@ Paper list for Modern Hopfield Networks
 ## Year 2024 
 
 
+* Chateau-Laurent, Hugo, and Frederic Alexandre. "**Contextual Control of Hopfield Networks in a Hippocampal Model.**" Proceedings of the Annual Meeting of the Cognitive Science Society. Vol. 46. 2024.
+  [[Paper](https://escholarship.org/uc/item/1bj4d35q)] 
+
 * Chaudhry, H., Zavatone-Veth, J., Krotov, D., & Pehlevan, C. (2024). **Long sequence hopfield memory.** Advances in Neural Information Processing Systems, 36.
   [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/aa32ebcdd2ce1bed4ef7f456fc8fa5c1-Abstract-Conference.html)] 
 
