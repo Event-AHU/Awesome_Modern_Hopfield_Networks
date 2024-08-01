@@ -15,6 +15,9 @@ Paper list for Modern Hopfield Networks
 ## Year 2024 
 
 
+* Nicolini, C., Gopalan, M., Staiano, J., & Lepri, B. (2024). **Hopfield Networks for Asset Allocation**. arXiv preprint arXiv:2407.17645.
+  [[Paper](https://arxiv.org/abs/2407.17645)] 
+
 * McAlister, Hayden, Anthony Robins, and Lech Szymanski. "**Improved Robustness and Hyperparameter Selection in Modern Hopfield Networks.**" arXiv preprint arXiv:2407.08742 (2024).
   [[Paper](https://arxiv.org/pdf/2407.08742)] 
 
