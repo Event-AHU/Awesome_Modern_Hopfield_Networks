@@ -15,6 +15,9 @@ Paper list for Modern Hopfield Networks
 ## Year 2024 
 
 
+* Ganjidoost, Ehsan, Mallory Snow, and Jeff Orchard. "**Online Training of Hopfield Networks using Predictive Coding.**" arXiv preprint arXiv:2406.14723 (2024).
+  [[Paper](https://arxiv.org/pdf/2406.14723)]
+  
 * Chateau-Laurent, Hugo, and Frederic Alexandre. "**Contextual Control of Hopfield Networks in a Hippocampal Model.**" Proceedings of the Annual Meeting of the Cognitive Science Society. Vol. 46. 2024.
   [[Paper](https://escholarship.org/uc/item/1bj4d35q)] 
 
