@@ -24,7 +24,7 @@ Paper list for Modern Hopfield Networks
 * Santos, S., Niculae, V., McNamee, D., & Martins, A. F. (2024). **Sparse and Structured Hopfield Networks**. arXiv preprint arXiv:2402.13725.
   [[Paper](https://arxiv.org/abs/2402.13725)] 
 
-* McAlister, Hayden, Anthony Robins, and Lech Szymanski. "**Prototype Analysis in Hopfield Networks with Hebbian Learning.**" arXiv preprint arXiv:2407.03342 (2024).
+* McAlister H, Robins A, Szymanski L. **Prototype Analysis in Hopfield Networks with Hebbian Learning**[J]. Neural Computation, 2024: 1-43.
   [[Paper](https://arxiv.org/abs/2407.03342)] 
 
 * Nicolini, C., Gopalan, M., Staiano, J., & Lepri, B. (2024). **Hopfield Networks for Asset Allocation**. arXiv preprint arXiv:2407.17645.
