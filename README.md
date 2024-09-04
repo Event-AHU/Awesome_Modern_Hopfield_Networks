@@ -15,6 +15,9 @@ Paper list for Modern Hopfield Networks
 ## Year 2024 
 
 
+* Sargolzaei, Saleh, and Luis Rueda. "**Improving Out-of-Distribution Data Handling and Corruption Resistance via Modern Hopfield Networks**." arXiv preprint arXiv:2408.11309 (2024).
+  [[Paper](https://arxiv.org/abs/2408.11309)] 
+
 * Ganjidoost, Ehsan, Mallory Snow, and Jeff Orchard. "**Online Training of Hopfield Networks using Predictive Coding.**" arXiv preprint arXiv:2406.14723 (2024).
   [[Paper](https://arxiv.org/pdf/2406.14723)]
   
