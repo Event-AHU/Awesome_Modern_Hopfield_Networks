@@ -5,7 +5,8 @@ Paper list for Modern Hopfield Networks
 ## Useful Materials 
 
 * [**scholarpedia.org/article/Hopfield_network**](http://scholarpedia.org/article/Hopfield_network)
-* [**Discrete Hopfield Network, September 20, 2015**](http://neupy.com/2015/09/20/discrete_hopfield_network.html) 
+* [**Discrete Hopfield Network, September 20, 2015**](http://neupy.com/2015/09/20/discrete_hopfield_network.html)
+* [[**hopfield-layers**](https://ml-jku.github.io/hopfield-layers/)]
 
 ## Video Tutorial 
 * **【清华姚班深度学习】清华大佬终于把深度学习讲明白了！2025最新内部绝密课程4** [[Youtube](https://youtu.be/YZ5o08kXjKc?si=7cWhz9C0OPf0ZRoL)] 
