@@ -15,9 +15,26 @@ Paper list for Modern Hopfield Networks
 
 
 
+## Year 2026 
+
+* **Dynamical properties of dense associative memory**,
+  Kazushi Mimura, Junichi Takeuchi, Yuto Sumikawa, Yoshiyuki Kabashima, Anthony CC Coolen
+  [[Paper](https://openreview.net/forum?id=TeDkzf34hs)]
+
+* **A Biologically Plausible Dense Associative Memory with Exponential Capacity**,
+  Mohadeseh Shafiei Kafraj, Dmitry Krotov, Peter E. Latham
+  [[Paper](https://openreview.net/forum?id=mRZOayQL1i)]
+
+* **Hyper-SET: Designing Transformers via Hyperspherical Energy Minimization**,
+  Yunzhe Hu, Difan Zou, Dong Xu
+  [[Paper](https://openreview.net/forum?id=FinhjyDgYA)]
+
+* **Adaptive Hopfield Network: Rethinking Similarities in Associative Memory**,
+  Shurong Wang, Yuqi Pan, Zhuoyang Shen, Meng Zhang, Hongwei Wang, Guoqi Li
+  [[Paper](https://openreview.net/forum?id=HKSp4U69dy)]
+
+
 ## Year 2024 
-
-
 * Sargolzaei, Saleh, and Luis Rueda. "**Improving Out-of-Distribution Data Handling and Corruption Resistance via Modern Hopfield Networks**." arXiv preprint arXiv:2408.11309 (2024).
   [[Paper](https://arxiv.org/abs/2408.11309)] 
 
